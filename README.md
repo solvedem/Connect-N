@@ -1,6 +1,6 @@
 # Connect-N
 
-Connect N game where user choose N and board size.
+Connect N game where user chooses N and board size.
 
 Connect 3 on a 4 x 4 board
 
