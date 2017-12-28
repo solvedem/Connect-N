@@ -17,7 +17,7 @@ def instructions():
 
             The minimum board size is 4 by 4.
 
-            The simulation game type will prompt user for
+            If chosen, the simulation game type will prompt user for
             the number of simulations and whether or not
             user will watch the simulations or simply
             see the results of the simulations.
